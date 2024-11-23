@@ -214,7 +214,12 @@
   </dependencyManagement>
 
   
-
+<scm>
+    <connection>scm:git:git@github.com/ashishdevops29/registration-app.git</connection>
+    <developerConnection>scm:git:git@github.com/ashishdevops29/registration-app.git</developerConnection>
+    <tag>HEAD</tag>
+    <url>https://github.com/ashishdevops29/registration-app</url>
+  </scm>
   <prerequisites>
     <maven>3.0.3</maven>
   </prerequisites>
